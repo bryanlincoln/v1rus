@@ -31,7 +31,7 @@ Após a geração dos indivíduos sucessores, executamos a operação de mutaç�
 - Elitismo<br/>
 Dados os fatores aleatórios presentes nos operadores de mutação, existe a possibilidade de degradação de uma boa solução. Para combater isto, selecionamos os dois melhores indivíduos em cada geração e os copiamos para a população da próxima geração.
 
-<br/><br/>
+<br/>
 Após a execução do algoritmo genético é feita a instanciação das células de defesa e o jogo inicia. A aplicação do algoritmo para navegação das células de defesa seguiu o mesmo esquema da geração dos indivíduos, porém esta era sujeita a alterações nos valores da quantidade de gerações e tamanho da população, de modo que permitisse movimentações mais precisas em direção às instâncias do jogador.
 
 ## Resultados
