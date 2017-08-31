@@ -1,0 +1,15 @@
+Base path: /home/bryan/.local/share/umake/games/unity3d/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=15 insize=1435 outsize=5221 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=3273 outsize=6757 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=3273 outsize=8593 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=1526 outsize=1441 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=2343 outsize=5041 ok=1
+Unhandled exception: Protocol error - failed to read correct magic number
+
+Quitting shader compiler process
