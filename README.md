@@ -26,7 +26,7 @@ A seleção dos melhores indivíduos é feita com base na aptidão. Como foi dit
 Após a seleção, existe uma probabilidade de cruzamento de 60%. O cruzamento dos indivíduos aptos é feito escolhendo-se aleatoriamente um ponto de corte no código genético e fazendo-se a troca das caudas dos mesmos. Dessa forma, diferentes sequências presentes em diferentes indivíduos podem se manifestar em um único indivíduo filho. 
 
 - Mutação<br/>
-Após a geração dos indivíduos sucessores, executamos a operação de mutação. Para cada caractere do código genético existe uma probabilidade de 0.8% de <i>flip<i/>. Como os indivíduos são representados com um código binário, este flip alteraria o valor de uma casa <i>false</i> (0) para <i>true</i> (1) e vice-versa.
+Após a geração dos indivíduos sucessores, executamos a operação de mutação. Para cada caractere do código genético existe uma probabilidade de 0.8% de <i>flip</i>. Como os indivíduos são representados com um código binário, este flip alteraria o valor de uma casa <i>false</i> (0) para <i>true</i> (1) e vice-versa.
 
 - Elitismo<br/>
 Dados os fatores aleatórios presentes nos operadores de mutação, existe a possibilidade de degradação de uma boa solução. Para combater isto, selecionamos os dois melhores indivíduos em cada geração e os copiamos para a população da próxima geração.
