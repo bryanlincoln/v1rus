@@ -43,6 +43,3 @@ Durante a execução, os indivíduos instanciados ao fim da execução do algori
 ## Conclusões
 
 Com este trabalho, podemos concluir que o poder dos algoritmos genéticos em resolver problemas de busca como o proposto é aplicável em diversas áreas, não só da computação. Dados os resultados preliminares do projeto, vemos que é possível sua extensão para simulações mais realistas além da adição de maiores graus liberdade para o jogador.
-
-## Para mais informações
-Para esclarecimento do código e de dúvidas em geral, contate-me em bryanufg@gmail.com.
